@@ -1,0 +1,26 @@
+show line graphs and create dummy data..
+create callbacks start-end date..
+create database models
+    unit table.....
+    loading table
+    temps table gtb ggb ttb...
+
+
+
+ITERATION 2///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+one chart which switches from diff temp params
+second chart for loading data
+side panels showing statistical data (max min mode median) for that time period for the other 2 params and a button saying "switch to chart view"
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+**********************************************************************************************************************************************input info for data that needs filled
+
+create data input with data then download a sample excel sheet then fill it with proper data to update the system. CREATE SAMPLE SPREADSHEET and authorize before uploading
+***************************************************************************************************************************************************************************************
+
+
+
+make pages responsive
